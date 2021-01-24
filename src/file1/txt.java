@@ -1,5 +1,7 @@
 package file1;
 
 public class txt {
-    fdgdfg
+    public static void main(String[] args) {
+
+    }
 }
